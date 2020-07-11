@@ -3,7 +3,11 @@ def using_include(array, element)
 end
 
 def using_sort(array)
+<<<<<<< HEAD
   array.sort
+=======
+  using_sort(array)
+>>>>>>> ceec0ad27b4ba3f21f0774cb202d4271c14da8a4
 
 end
 
